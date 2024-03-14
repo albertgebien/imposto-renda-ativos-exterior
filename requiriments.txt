@@ -1,0 +1,6 @@
+pip install openpyxl
+pip install workalendar
+pip install requests
+pip install pandas
+pip install yfinance
+pip install xlsxwriter
