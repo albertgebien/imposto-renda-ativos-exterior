@@ -7,13 +7,13 @@ Este é um projeto desenvolvido em Python 3.11.8 para auxiliar na geração de u
 ## Requisitos
 
 - Python 3.11.8 ou superior
-- Bibliotecas Python: pandas, openpyxl, requests, BeautifulSoup
+- Bibliotecas Python: pandas, workalendar, requests
 
 ## Instalação das Bibliotecas
 
 Você pode instalar as bibliotecas necessárias utilizando o gerenciador de pacotes pip. Basta executar o seguinte comando:
 
-pip install pandas requests
+pip install pandas requests workalendar
 
 
 ## Utilização
