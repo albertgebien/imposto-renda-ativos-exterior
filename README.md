@@ -1,5 +1,5 @@
-Planilha para Informe de Imposto de Renda - Ativos no Exterior
-Introdução
+# Informe de Imposto de Renda - Ativos no Exterior
+## Introdução
 
 Este é um projeto desenvolvido em Python 3.11.8 para auxiliar na geração de uma planilha para o informe de imposto de renda para quem possui ativos no exterior, como ações (stocks), REITs e ETFs. A entrada de dados é feita através de uma planilha Excel chamada transacoes.xlsx, e o script consulta o valor do dólar de venda do dia da transação no site do Banco Central do Brasil (BCB). Ao final do processo, é gerada uma planilha chamada Saída.xlsx com os dados que devem ser inseridos no programa do imposto de renda.
 Requisitos
