@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Planilha para Informe de Imposto de Renda</title>
-</head>
-<body>
     <h1>Planilha para Informe de Imposto de Renda - Ativos no Exterior</h1>
 
     <h2>Introdução</h2>
@@ -107,6 +99,4 @@
             </tr>
         </tbody>
     </table>
-    
-</body>
-</html>
+
